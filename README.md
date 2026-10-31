@@ -156,4 +156,10 @@ The currently verified Python export contains five CSV outputs: department summa
 
 ## Author
 
+Name: Shashank Aman
+
+LinkedIn: www.linkedin.com/in/shashank-aman-533a21244
+
+GitHub: https://github.com/shashankaman
+
 Add your name, LinkedIn URL, and GitHub profile here.
