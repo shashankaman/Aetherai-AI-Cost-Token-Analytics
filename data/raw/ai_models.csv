@@ -1,0 +1,4 @@
+model_id,provider,model_name,input_rate_per_million_usd,output_rate_per_million_usd,model_tier
+1,Aether Cloud,Aether-Flash,0.2,0.8,Low Cost
+2,Aether Cloud,Aether-Pro,2.0,8.0,Premium
+3,Open Model Hub,OpenLite,0.1,0.4,Low Cost
